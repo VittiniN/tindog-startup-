@@ -1,0 +1,167 @@
+/* Header Styles */
+.page-home .HomeHero,
+.page-home ion-card,
+.page-home ion-card-title,
+.page-home ion-card-header,
+.page-home ion-slides,
+.page-home div,
+.page-home h1#popular-vid-title,
+.page-home .tik-tok-pic {
+  border-radius: 10px;
+}
+
+.page-home .HomeHero {
+  height: 130px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+ion-card-title,
+.page-home ion-card-title {
+  max-width: 90%;
+  font-size: 1em;
+  font-weight: 400px;
+  text-align: left;
+  bottom: 9px;
+}
+
+.page-home h1,
+.page-independent-living-services-2 h3 {
+  font-size: 18px;
+  font-weight: bold;
+  position: relative;
+  z-index: 5;
+  margin: 0px;
+}
+
+.page-independent-living-services-2 h3 {
+  background-color: #f7f7f7;
+  padding: 8px;
+}
+
+.page-independent-living-services-2 ion-card {
+  background-color: #5d5ca9 !important;
+}
+
+.swiper-slide img {
+  border-radius: 10px;
+}
+
+/* Body Styles */
+figure {
+  float: left;
+  padding-right: 20px;
+  margin-bottom: 0px;
+}
+
+.page-home .title {
+  position: relative;
+  font-size: 10px !important;
+  left: 30px;
+  top: 75px;
+  white-space: nowrap;
+}
+
+.page-home #vid-title {
+  padding-bottom: 8px;
+  margin-bottom: 5px;
+}
+
+.card-list-excerpt {
+  display: none;
+}
+
+ap-list ion-card {
+  background-color: #5bb478;
+}
+
+ion-item h2::before {
+  background-color: white !important;
+}
+
+.menu-card ion-card-content {
+  font-size: 20px;
+  bottom: 9px;
+  margin-left: auto;
+  background-color: #5d5ca9 !important;
+}
+
+ion-card.menu-card.md.hydrated {
+  background-color: #5d5ca9;
+}
+
+/* Footer Styles */
+ion-header ion-toolbar:first-of-type {
+  color: white;
+}
+
+ion-title.md.title-default.hydrated {
+  display: none;
+  background-color: #5d5ca9 !important;
+}
+
+.ion-selected {
+  color: #5d5ca9 !important;
+}
+
+.cat-img {
+  width: 100%;
+}
+
+h2,
+.app-single-post-page h2:first-of-type,
+.app-single-post-page div.elementor-widget-container h2:first-of-type,
+.app-single-post-page h2 {
+  font-size: 1.0em;
+  font-weight: bold;
+}
+
+h2 {
+  background-color: #5BB478;
+  padding: 4px;
+}
+
+.app-single-post-page h2:first-of-type {
+  background-color: #F7D748;
+  color: black;
+  display: inline-block;
+  font-size: 1.25em;
+  padding: 10px;
+  width: 100%;
+}
+
+span.htoc__toggle {
+  display: none;
+}
+
+.wp-block-ht-block-toc.is-style-rounded.htoc.htoc--position-wide.toc-list-style-plain,
+.wp-block-ht-block-toc.is-style-outline.htoc.htoc--position-wide.toc-list-style-plain {
+  color: #5d5ca9;
+  position: relative;
+  right: 20px;
+}
+
+.htoc__title {
+  margin: -20px;
+}
+
+
+.page-home .tik-tok-pic {
+    left: 10px;
+    position: relative;
+    border-radius: 10px;
+}
+
+.page-home .fp-learn-more {
+    width: 200px;
+    border: 1px solid red;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.page-home .fp-learn-more img {
+    width: 100px;
+    height: auto;
+}

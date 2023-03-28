@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../TinDog-Start-master/images"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "startup"
+  }
+}

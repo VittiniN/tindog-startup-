@@ -1,0 +1,323 @@
+
+
+
+
+.header-md::after {
+    background-image: none;
+}
+
+.page-home .HomeHero {
+    height: 130px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 10px;
+}
+
+ion-card-title {
+    max-width: 90%;
+}
+
+.page-home h1 {
+    font-size: 18px;
+    font-weight: bold;
+    position: relative;
+    z-index: 5;
+    left: 19px;
+    margin: 0px;
+    top: 6px;
+}
+
+.swiper-slide img {
+    border-radius: 10px;
+}
+
+/* Positions scrappy head in WP Posts */
+figure {
+    float: left;
+    padding-right: 20px;
+    margin-bottom: 0px;
+}
+
+.page-independent-living-services-2 h3 {
+    background-color: #f7f7f7;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.page-independent-living-services-2 ion-card {
+    background-color: #5d5ca9 !important;
+}
+
+.page-home .tik-tok-pic {
+    left: 10px;
+    position: relative;
+}
+
+.title {
+    positon: relative;
+    font-size: 10px !important;
+    left: 30px;
+    top: 75px;
+    white-space: nowrap;
+}
+
+.page-home #vid-title {
+    padding-bottom: 8px;
+    margin-bottom: 5px;
+}
+
+/* Post-list Edit */
+
+.card-list-excerpt {
+    display: none;
+}
+
+ap-list ion-card {
+    background-color: #5bb478;
+}
+
+ion-item h2::before {
+    background-color: white !important;
+}
+
+/* ion-card styles */
+
+.page-home ion-card {
+    box-shadow: none;
+}
+
+.page-home ion-card-title {
+    font-size: 1em;
+    font-weight: 400px;
+    text-align: left;
+    bottom: 9px;
+}
+
+.page-home ion-card {
+    border-raduis: 10px;
+}
+
+/* ILS- Menu widgets */
+
+.menu-card ion-card-content {
+    font-size: 20px;
+    bottom: 9px;
+    margin-left: auto;
+    background-color: #5d5ca9 !important;
+}
+
+ion-card.menu-card.md.hydrated {
+    background-color: #5d5ca9;
+}
+
+/*toolbar-edit */
+ion-header ion-toolbar:first-of-type {
+    color: white;
+}
+
+ion-title.md.title-default.hydrated {
+    display: none;
+    background-color: #5d5ca9 !important;
+}
+
+.ion-selected {
+    color: #5d5ca9 !important;
+}
+
+/* Home-Page */
+.page-home ion-card-header {
+    padding: 10px 0px 0px 0px;
+}
+
+.page-home ion-slides {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.page-home h1#popular-vid-title {
+    padding-bottom: 20px;
+}
+
+.page-home div {
+    padding: 5px;
+}
+
+.page-home h1 {
+    padding-bottom: 5px;
+}
+
+/* Featured-img inside cat-pages */
+.cat-img {
+    width: 100%;
+}
+
+/*Post-page-title Edits */
+/*h2 {
+background-color: #f7f7f7;
+color: #ffffff;
+display: inline-block;
+font-size: 20px;
+font-weight: bold;
+height: 150%;
+padding: 25px 0;
+width: 90%;
+max-width: 800px;
+position: relative;
+white-space: normal;
+z-index: 1;
+margin-top: 0;
+}
+/* h2::before {
+background-color: #f7f7f7;
+content: "";
+display: block;
+height: 110%;
+left: -50%;
+position: absolute;
+top: -5%;
+width: 200%;
+z-index: -1;
+} */
+
+h2 {
+    font-size: 1.0em;
+    font-weight: bold;
+    background-color: #5BB478;
+    padding: 4px;
+}
+
+app-single-post-page h2:first-of-type {
+    background-color: #F7D748;
+    color: black;
+    display: inline-block;
+    font-size: 1.25em;
+    font-weight: bold;
+    padding: 10px;
+    width: 100%;
+}
+
+app-single-post-page div.elementor-widget-container h2:first-of-type {
+    background-color: white;
+    font-size: 1.0em;
+    font-weight: bold;
+    padding: 0px;
+    display: block;
+    width: auto;
+}
+
+app-single-post-page h2 {
+    font-size: 1.0em;
+    font-weight: bold;
+}
+
+span.htoc__toggle {
+    display: none;
+}
+
+.wp-block-ht-block-toc.is-style-rounded.htoc.htoc--position-wide.toc-list-style-plain {
+    color: #5d5ca9;
+}
+
+.selection.post-detail {
+    padding-top: 0px;
+}
+
+.wp-block-ht-block-toc.is-style-outline.htoc.htoc--position-wide.toc-list-style-plain {
+    position: relative;
+    right: 20px;
+}
+
+.htoc__title {
+    margin-left: -20px;
+}
+
+ul.ht_toc_list {
+    margin-top: 20px;
+}
+
+ul.ht_toc_list li {
+    padding: 0;
+    list-style-type: none;
+    margin-bottom: 10px;
+    margin-left: -40px;
+}
+
+span.ht_toc_title {
+    position: relative;
+    left: 20px;
+    top: 7px;
+    padding-top: 10px;
+    margin-top: 10px;
+    z-index: 1;
+}
+
+app-custom-html {
+    padding: 0px;
+}
+
+app-custom-html div.fp-page-body {
+    padding: 0px 15px;
+}
+
+ion-segment-button {
+    color: #7113D0;
+}
+
+.cat-title {
+    font-size: 1.25em;
+}
+
+.swiper-wrapper {
+    margin-bottom: 0px;
+}
+
+.item-inner {
+    padding-right: 0px;
+}
+
+.page-glossary div#GlossaryContainer {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* Popular Vid */
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x mandatory;
+}
+
+.wrapper div.slide {
+    object-fit: cover !important;
+    justify-content: space-between;
+    margin-right: 20px;
+}
+
+.wrapper a {
+    scroll-snap-align: start;
+    border-radius: 10px;
+}
+
+.wrapper img {
+    max-width: 200px;
+    height: auto;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.page-dependency-court-explained div:first-of-type {
+    padding: 10px;
+}
+
+/* Styles for the Video Page */
+
+.page-videos h2 {
+    background-color: white;
+}
